@@ -10,6 +10,7 @@ import com.spark.hackathon.core.modelos.SexoEnum.SexoEnum
   */
 object ScalaBasicoMain extends App with SLF4JLogging {
 
+  /** Scala básico **/
   /** Scala básico */
 
   val profesor = "Jose Carlos"

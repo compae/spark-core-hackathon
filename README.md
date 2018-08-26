@@ -1,2 +1,2 @@
 # spark-core-hackathon
-Entrnamiento y ejemplos del core de Spark
+Entrenamiento y ejemplos del core de Spark
